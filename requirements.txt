@@ -1,0 +1,7 @@
+# To install, run `pip install -r requirements.txt` in the terminal
+numpy==2.1.0
+pyaudio==0.2.14
+scipy==1.14.1
+matplotlib==3.9.2
+PyWavelets==1.7.0
+Pillow==11.0.0
